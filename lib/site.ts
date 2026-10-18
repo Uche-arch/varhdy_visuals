@@ -9,7 +9,6 @@ export const SITE = {
   email: "victor@gmail.com",
   location: "Nigeria",
   socials: [
-    { label: "Instagram", href: "https://instagram.com/" },
     { label: "TikTok", href: "https://tiktok.com/" },
     { label: "WhatsApp", href: "https://wa.me/" },
   ],
